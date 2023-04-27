@@ -74,7 +74,7 @@ export class DnD extends Component {
                     }
 
                     var file = files[0];
-                    if (file.size > 10 * 1048576) {
+                    if (file.size > 50 * 1048576) {
                         dndError('dnd-large-file');
                         return;
                     }
