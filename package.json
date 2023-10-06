@@ -55,7 +55,7 @@
     "jspm": "^0.16.2",
     "path": "^0.12.7",
     "react-test-renderer": "^18.1.0",
-    "stylelint": "^13.13.1",
+    "stylelint": "^15.10.3",
     "stylelint-config-standard": "^22.0.0",
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2",
